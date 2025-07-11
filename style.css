@@ -1,4 +1,12 @@
-div {
+.a{
+    background-color: blue;
+    color: white;
+}
+.b{
+    background-color: rgb(141, 112, 144);
+    color: white;
+}
+.c {
     background-color: slategray;
     color: red;
 }
